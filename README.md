@@ -37,5 +37,7 @@ An important part of this analysis was identifying the most popular areas in New
 ## 8. Pairwise Analysis of Rush Hours and Weekdays: 
 To dig deeper into the patterns of Uber usage, I performed a pairwise analysis of rush hours and weekdays. This analysis showed how Uber demand fluctuated based on the day of the week and specific hours within the day. The findings helped identify not only peak times but also the days that had the highest level of activity, enabling better prediction of peak demand periods.
 
+![Image](https://github.com/user-attachments/assets/ce7d168a-1102-4a28-bf2f-48231e71fbac)
+
 ## 9. Automating the Analysis: 
 Finally, I explored ways to automate the analysis process by creating reusable Python functions and scripts. This involved using libraries such as pandas for data manipulation, matplotlib and seaborn for visualizations, and ensuring that the entire workflow, from data cleaning to analysis, could be repeated seamlessly for future datasets. The goal was to create a system that could easily handle new data and provide up-to-date insights on Uber's operations
