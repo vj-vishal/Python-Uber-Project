@@ -32,6 +32,8 @@ The raw Uber data was pre-processed and transformed into a usable format by filt
 ## 7. Locations of Rush in New York City: 
 An important part of this analysis was identifying the most popular areas in New York City where Uber pickups were highest. By plotting the geographic coordinates of each pickup location, I was able to visualize a number of hot spots. Midtown Manhattan is clearly a huge bright spot & these are made from Midtown to Lower Manhattan followed by Upper Manhattan and the Heights of Brooklyn.
 
+![Image](https://github.com/user-attachments/assets/5cb9ad6b-befa-47e1-87b9-b96877e939db)
+
 ## 8. Pairwise Analysis of Rush Hours and Weekdays: 
 To dig deeper into the patterns of Uber usage, I performed a pairwise analysis of rush hours and weekdays. This analysis showed how Uber demand fluctuated based on the day of the week and specific hours within the day. The findings helped identify not only peak times but also the days that had the highest level of activity, enabling better prediction of peak demand periods.
 
