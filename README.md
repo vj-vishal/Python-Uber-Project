@@ -12,11 +12,13 @@ Data cleaning involved handling missing values, correcting data types (e.g., con
 Through analysis of the dataset, I identified that June month has the highest number of Uber pickups. By grouping data by month and summing the pickups for each month, I discovered the peak month for Uber activity in New York City, revealing seasonality and demand fluctuations.
 
 ![Image](https://github.com/user-attachments/assets/c42c0365-a148-4166-93e9-ea7d88ff3049)
+
 ![Image](https://github.com/user-attachments/assets/cbd09a73-3bf0-40a8-9ea3-36c33ad9e5a4)
 
 ## 4. Hourly Rush in New York City: 
 To understand the city's transportation demand throughout the day, I performed an analysis to determine the hourly rush. By aggregating the data based on hours,i have seen that Saturday and Sunday exhibit similar demand throughout the late night/morning/afternoon, but it exhibits opposite trends during the evening. In the evening, Saturday pickups continue to increase throughout the evening, but Sunday pickups takes a 
 downward turn after evening. We can see that there the weekdays that has the most demand during the late evening is Friday and Saturday, which is expected, but what strikes me is that Thursday nights also exhibits very similar trends as Friday and Saturday nights.
+
 ![Image](https://github.com/user-attachments/assets/6248c257-e3f4-435c-8728-011d8ba58955)
 
 ## 5. Base Number with the Most Active Vehicles: 
