@@ -17,6 +17,7 @@ Through analysis of the dataset, I identified that June month has the highest nu
 ## 4. Hourly Rush in New York City: 
 To understand the city's transportation demand throughout the day, I performed an analysis to determine the hourly rush. By aggregating the data based on hours,i have seen that Saturday and Sunday exhibit similar demand throughout the late night/morning/afternoon, but it exhibits opposite trends during the evening. In the evening, Saturday pickups continue to increase throughout the evening, but Sunday pickups takes a 
 downward turn after evening. We can see that there the weekdays that has the most demand during the late evening is Friday and Saturday, which is expected, but what strikes me is that Thursday nights also exhibits very similar trends as Friday and Saturday nights.
+![Image](https://github.com/user-attachments/assets/6248c257-e3f4-435c-8728-011d8ba58955)
 
 ## 5. Base Number with the Most Active Vehicles: 
 One of the key findings was identifying which base_number (Uber's vehicle dispatch stations) had the most active vehicles. By grouping the data based on the base number and counting the active vehicles, I discovered B02764 base had the highest level of operational activity across the city.
