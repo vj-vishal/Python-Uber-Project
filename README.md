@@ -24,6 +24,8 @@ downward turn after evening. We can see that there the weekdays that has the mos
 ## 5. Base Number with the Most Active Vehicles: 
 One of the key findings was identifying which base_number (Uber's vehicle dispatch stations) had the most active vehicles. By grouping the data based on the base number and counting the active vehicles, I discovered B02764 base had the highest level of operational activity across the city.
 
+![Image](https://github.com/user-attachments/assets/2bef97e3-c554-46c6-a127-ee8b31b8fd27)
+
 ## 6. Data Preparation for Analysis: 
 The raw Uber data was pre-processed and transformed into a usable format by filtering necessary columns and ensuring that all timestamps were properly parsed. The cleaned data was ready for further analysis, allowing for efficient aggregation and exploration.
 
