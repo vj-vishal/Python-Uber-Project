@@ -10,6 +10,7 @@ Data cleaning involved handling missing values, correcting data types (e.g., con
 
 ## 3. Month with Maximum Uber Pickups in NYC: 
 Through analysis of the dataset, I identified that June month has the highest number of Uber pickups. By grouping data by month and summing the pickups for each month, I discovered the peak month for Uber activity in New York City, revealing seasonality and demand fluctuations.
+
 ![Image](https://github.com/user-attachments/assets/c42c0365-a148-4166-93e9-ea7d88ff3049)
 ![Image](https://github.com/user-attachments/assets/cbd09a73-3bf0-40a8-9ea3-36c33ad9e5a4)
 
